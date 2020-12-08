@@ -42,8 +42,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
-|اذا واجهتك مشكلة راسل|
-|---|
+
 |BoT TwS|telegran.me/i_PBot||
 |---|----|-----|
 |Medo|telegram.me/GGGGw||
