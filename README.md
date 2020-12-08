@@ -29,6 +29,13 @@
 ***
 |وانتظر تنصيب المكاتب بعدها يطلب منك التوكن والايدي املئ معلوماتك واضغط انتر بعدها اذهب الى التليكرام واستعمل بوتك|
 |---|
+
+
+<div align="center">
+<h3><img src="image/pool.gif" width="30"> فيديو لطريقة التنصيب<img src="image/pool.gif" width="30"></h3>
+</div>
+
+
 ### - Languages source ...
 
 <p align="center">
