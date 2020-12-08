@@ -32,7 +32,7 @@
 
 
 <div align="center">
-<h3><img src="image/pool.gif" width="30"> فيديو لطريقة التنصيب<img src="image/pool.gif" width="30"></h3>
+<h3><img src="https://medo.gq/videos/pool.gif" width="30"> فيديو لطريقة التنصيب<img src="https://medo.gq/videos/pool.gif" width="30"></h3>
 </div>
 
 
