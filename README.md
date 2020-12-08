@@ -45,5 +45,5 @@
 
 |BoT|https://t.me/i_PBot||
 |---|----|-----|
-|Medo|telegram.me/GGGGw||
-|ححمود|telegram.me/QoQo6 ||
+|Medo|https://t.me/GGGGw||
+|ححمود|https://t.me/QoQo6 ||
