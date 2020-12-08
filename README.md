@@ -35,7 +35,7 @@
 <h3><img src="https://media.giphy.com/media/MEgmtF9GMMLuqpgke0/giphy.gif" width="30"> فيديو لطريقة التنصيب<img src="https://media.giphy.com/media/MEgmtF9GMMLuqpgke0/giphy.gif" width="30"></h3>
 </div>
 
-[![Demo CountPages alpha](https://medo.gq/videos/ex.gif)](https://telegram.me/ggggw)
+[![Demo CountPages alpha](https://medo.gq/videos/ex.gif)](https://medo.gq/videos/ex.gif)
 
 
 ### - Languages source ...
