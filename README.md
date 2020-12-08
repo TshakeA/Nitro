@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
 
-|اذا واجهتك مشكلة راسل|@i_PBot||
+||اذا واجهتك مشكلة راسل|@i_PBot|
 |---|----|-----|
 |Medo|telegram.me/GGGGw|
 |ححمود|telegram.me/QoQo6 |
