@@ -22,10 +22,10 @@
 </div>
 
 انسخ الكود والصقة بالترمنال واضغط انتر
-|Nitro|
-|---|
-|| wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt" | bash;cd Nitro;python3.7 setup.py
-||
+!Nitro!
+!---!
+! wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt" | bash;cd Nitro;python3.7 setup.py
+!
 وانتظر تنصيب المكاتب بعدها يطلب منك التوكن والايدي املئ معلوماتك واضغط انتر بعدها اذهب الى التليكرام واستعمل بوتك
 
 
