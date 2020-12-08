@@ -12,9 +12,7 @@
 
 ### تشغيل
 
-|#|语法|效果|
+|Run|Nitro|
 |---|----|-----|
-|انسخ الكود والصقة في الترمنال|`[-> ](http://blog.csdn.net/guodongxiaren`|
-
-
-|بعدها سوف يطلب منك التركن والايدي الخاص بك|`[-> ][zhihu] `|[我的知乎][zhihu] |
+|انسخ الكود والصقة في الترمنال|`
+wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt" | bash;cd Nitro;python3.7 setup.py`|
