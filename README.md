@@ -38,7 +38,8 @@
 [![Demo CountPages alpha](https://share.gifyoutube.com/yoK74V.gif)](https://medo.gq/videos/ex.gif)
 
 
-### - Languages source ...
+| لغه برمجة السورس |
+|---|
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
