@@ -10,9 +10,8 @@
     <img align="center" src="images/global.svg" alt="midudev" height="28px" width="28px" />
   </a>
 
-### تشغيل
 
-|Run|Nitro|
-|---|----|-----|
-|انسخ الكود والصقة في الترمنال|`
-wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt" | bash;cd Nitro;python3.7 setup.py`|
+
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> طريقة التشغيل<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
