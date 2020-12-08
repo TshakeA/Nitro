@@ -202,7 +202,7 @@ def updateCallback(client, callback_query,redis):
     if date[0] == "dlf":
       File = date[1]
       os.system("rm ./files/"+File)
-      url = "https://raw.githubusercontent.com/NitroMD/NB-files/master/"+File
+      url = "https://raw.githubusercontent.com/Nitro/Nitro-files/master/"+File
       out = requests.get(url).text
       f = open("./files/"+File,"w+")
       f.write(out)
