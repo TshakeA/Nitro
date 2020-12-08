@@ -21,11 +21,11 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> طريقة التشغيل<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
-انسخ الكود والصقة بالترمنال واضغط انتر
-!Nitro!
-!---!
-! wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt" | bash;cd Nitro;python3.7 setup.py
-!
+|انسخ الكود والصقة بالترمنال واضغط انتر|
+|---|
+```
+wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt" | bash;cd Nitro;python3.7 setup.py
+```
 وانتظر تنصيب المكاتب بعدها يطلب منك التوكن والايدي املئ معلوماتك واضغط انتر بعدها اذهب الى التليكرام واستعمل بوتك
 
 
