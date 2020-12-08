@@ -41,3 +41,30 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
+
+
+
+
+- [Apple TV](#apple-tv) 
+- [Apple Watch](#apple-watch) 
+- [Browser](#browser) 
+- [Calculator](#calculator) 
+- [Calendar](#calendar) 
+- [Color](#color) 
+- [Clock](#clock) 
+- [Clone](#clone) 
+- [Communication](#communication) 
+- [Developer](#developer) 
+  - [GitHub](#github) 
+  - [Terminal](#terminal) 
+- [Education](#education) 
+- [Emulator](#emulator) 
+- [Event](#event) 
+- [Extension](#extension) 
+  - [Content Blocking](#content-blocking) 
+  - [Today](#today) 
+  - [Widget](#widget) 
+- [File](#file) 
+- [Finance](#finance) 
+  - [Cryptocurrency](#cryptocurrency) 
+- [Game](#game) 
