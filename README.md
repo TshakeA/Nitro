@@ -22,7 +22,7 @@
 </div>
 
 انسخ الكود والصقة بالترمنال واضغط انتر
-|#|语法|效果|
+|Nitro|
 |---|----|-----|
 | wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt" | bash;cd Nitro;python3.7 setup.py
 |
