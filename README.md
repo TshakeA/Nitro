@@ -29,7 +29,7 @@ wget -q -O - "https://raw.githubusercontent.com/Medo-X/Nitro/master/install.txt"
 
 ```
 |وانتظر تنصيب المكاتب بعدها يطلب منك التوكن والايدي املئ معلوماتك واضغط انتر بعدها اذهب الى التليكرام واستعمل بوتك|
-
+|---|
 ### - Languages source ...
 
 <p align="center">
