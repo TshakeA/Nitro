@@ -43,6 +43,8 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
 
-
-
+|اذا واجهتك مشكلة راسل|
+|Medo|telegram.me/GGGGW|
+|حمـۈد ﭑࢦ دݪيـم 𖤍|telegram.me/QoQo6|
+|---||---|
 
