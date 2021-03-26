@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 </p>
 
-|BoT|https://t.me/i_PBot||
+|BoT|https://t.me/GG_wbot||
 |---|----|-----|
 |Medo|https://t.me/GGGGw||
-|ححمود|https://t.me/QoQo6 ||
+|Channel|https://t.me/bJJJJ ||
