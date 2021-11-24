@@ -243,7 +243,7 @@ def sudo(client, message,redis):
 					f.write(out)
 					f.close()
 				for fnb in Files_B:
-					url = "https://raw.githubusercontent.com/Nitro/NB/master/"+fnb
+					url = "https://raw.githubusercontent.com/master/"+fnb
 					out = requests.get(url).text
 					f = open("./"+fnb,"w+")
 					f.write(out)
