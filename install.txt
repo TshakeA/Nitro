@@ -35,8 +35,8 @@ echo -e "\rDone download pm2"
 
 echo -n "Downloading Nitro.." 
 
-git clone https://github.com/Medo-X/Nitro.git &>/dev/null
-git clone https://github.com/Medo-X/Nitro-lang.git &>/dev/null;sudo cp -R Nitro-lang/lang Nitro/lang/; rm -rf Nitro-lang
+git clone https://github.com/TshakeA/Nitro.git &>/dev/null
+git clone https://github.com/TshakeA/Nitro-lang.git &>/dev/null;sudo cp -R Nitro-lang/lang Nitro/lang/; rm -rf Nitro-lang
 
 echo -e "\rDone download Nitro"
 echo
