@@ -61,7 +61,7 @@ def updateHandlers(client, message,redis):
 							setrank(redis,"creator",userId,chatID,"one")
 					add = redis.sadd("{}Nbot:groups".format(BOT_ID),chatID)
 					Bot("exportChatInviteLink",{"chat_id":chatID})
-					kb = InlineKeyboardMarkup([[InlineKeyboardButton(r.MoreInfo, url="t.me/vvhvvv")]])
+					kb = InlineKeyboardMarkup([[InlineKeyboardButton(r.MoreInfo, url="t.me/iiiziiii")]])
 					Bot("sendMessage",{"chat_id":chatID,"text":r.doneadd.format(title),"reply_to_message_id":message.message_id,"parse_mode":"markdown","reply_markup":kb})
 
 				elif text == c.add and redis.sismember("{}Nbot:disabledgroups".format(BOT_ID),chatID)  and Ckuser(message):
